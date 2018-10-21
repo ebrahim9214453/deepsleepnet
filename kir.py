@@ -1,0 +1,1 @@
+print('kiramo bokhor')
