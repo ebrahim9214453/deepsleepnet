@@ -188,7 +188,7 @@ def main():
         x = np.asarray(np.split(raw_ch, n_epochs)).astype(np.float32)
         y = labels.astype(np.int32)
         
-        np.savez(outfile, x, y)
+        
         
         
         assert len(x) == len(y)
@@ -205,7 +205,7 @@ def main():
         x = x[select_idx]
         y = y[select_idx]
         print("Data after selection: {}, {}".format(x.shape, y.shape))
-        
+        np.savez(outfile, x, y)
         #our own  saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
         fooo.write("hi");
         
@@ -220,7 +220,7 @@ def main():
             "header_annotation": h_ann,
         }
         np.savez(os.path.join(args.output_dir, filename), **save_dict)
-        np.savez("
+        
         print "\n=======================================\n"
     fooo.close()     
 
