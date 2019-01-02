@@ -68,6 +68,9 @@ def main():
                         help="File path to the trained model used to estimate walking speeds.")
     args = parser.parse_args()
 
+    #our own saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+    fooo = open("test.txt","w+")
+    
     # Output dir
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
@@ -197,7 +200,10 @@ def main():
         x = x[select_idx]
         y = y[select_idx]
         print("Data after selection: {}, {}".format(x.shape, y.shape))
-
+        
+        #our own  saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+        f.write(x);
+        
         # Save
         filename = ntpath.basename(psg_fnames[i]).replace("-PSG.edf", ".npz")
         save_dict = {
@@ -211,6 +217,7 @@ def main():
         np.savez(os.path.join(args.output_dir, filename), **save_dict)
 
         print "\n=======================================\n"
+    f.close()     
 
 
 if __name__ == "__main__":
