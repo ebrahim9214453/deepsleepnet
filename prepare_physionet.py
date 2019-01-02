@@ -204,7 +204,7 @@ def main():
         print
         
         #our own  saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-        fooo.write(x);
+        fooo.write("hi");
         
         # Save
         filename = ntpath.basename(psg_fnames[i]).replace("-PSG.edf", ".npz")
