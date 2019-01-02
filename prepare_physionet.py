@@ -16,6 +16,8 @@ from mne import Epochs, pick_types, find_events
 from mne.io import concatenate_raws, read_raw_edf
 
 import dhedfreader
+from tempfile import TemporaryFile
+outfile = TemporaryFile()
 
 
 # Label values
@@ -69,7 +71,7 @@ def main():
     args = parser.parse_args()
 
     #our own saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-    fooo = open("test.txt","w+")
+    fooo = open("test.txt","w")
     
     # Output dir
     if not os.path.exists(args.output_dir):
@@ -185,7 +187,10 @@ def main():
         # Get epochs and their corresponding labels
         x = np.asarray(np.split(raw_ch, n_epochs)).astype(np.float32)
         y = labels.astype(np.int32)
-
+        
+        np.savez(outfile, x, y)
+        
+        
         assert len(x) == len(y)
 
         # Select on sleep periods
@@ -201,8 +206,6 @@ def main():
         y = y[select_idx]
         print("Data after selection: {}, {}".format(x.shape, y.shape))
         
-        print
-        
         #our own  saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
         fooo.write("hi");
         
@@ -217,7 +220,7 @@ def main():
             "header_annotation": h_ann,
         }
         np.savez(os.path.join(args.output_dir, filename), **save_dict)
-
+        np.savez("
         print "\n=======================================\n"
     fooo.close()     
 
