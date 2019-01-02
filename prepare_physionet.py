@@ -201,8 +201,10 @@ def main():
         y = y[select_idx]
         print("Data after selection: {}, {}".format(x.shape, y.shape))
         
+        print
+        
         #our own  saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-        f.write(x);
+        fooo.write(x);
         
         # Save
         filename = ntpath.basename(psg_fnames[i]).replace("-PSG.edf", ".npz")
@@ -217,7 +219,7 @@ def main():
         np.savez(os.path.join(args.output_dir, filename), **save_dict)
 
         print "\n=======================================\n"
-    f.close()     
+    fooo.close()     
 
 
 if __name__ == "__main__":
