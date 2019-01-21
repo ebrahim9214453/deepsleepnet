@@ -16,8 +16,6 @@ from mne import Epochs, pick_types, find_events
 from mne.io import concatenate_raws, read_raw_edf
 
 import dhedfreader
-from tempfile import TemporaryFile
-outfile = TemporaryFile()
 
 
 # Label values
@@ -70,9 +68,6 @@ def main():
                         help="File path to the trained model used to estimate walking speeds.")
     args = parser.parse_args()
 
-    #our own saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-    fooo = open("test.txt","w")
-    
     # Output dir
     if not os.path.exists(args.output_dir):
         os.makedirs(args.output_dir)
@@ -187,10 +182,7 @@ def main():
         # Get epochs and their corresponding labels
         x = np.asarray(np.split(raw_ch, n_epochs)).astype(np.float32)
         y = labels.astype(np.int32)
-        
-        
-        
-        
+
         assert len(x) == len(y)
 
         # Select on sleep periods
@@ -205,10 +197,7 @@ def main():
         x = x[select_idx]
         y = y[select_idx]
         print("Data after selection: {}, {}".format(x.shape, y.shape))
-        np.savez(outfile, x, y)
-        #our own  saving \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-        fooo.write("hi");
-        
+
         # Save
         filename = ntpath.basename(psg_fnames[i]).replace("-PSG.edf", ".npz")
         save_dict = {
@@ -220,9 +209,8 @@ def main():
             "header_annotation": h_ann,
         }
         np.savez(os.path.join(args.output_dir, filename), **save_dict)
-        
+
         print "\n=======================================\n"
-    fooo.close()     
 
 
 if __name__ == "__main__":
