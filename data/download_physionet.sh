@@ -181,3 +181,21 @@ wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4
 wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4192E0-PSG.edf
 wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4192E0-PSG.edf.hyp
 wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4192EV-Hypnogram.edf
+
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4002e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4002e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4012e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4012e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4102e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4102e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4112e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4112e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7022j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7022j0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7052j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7052j0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7121j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7121j0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7132j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7132j0.rec
+wget
