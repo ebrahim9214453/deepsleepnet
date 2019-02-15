@@ -198,4 +198,6 @@ wget https://www.physionet.org/physiobank/database/sleep-edf/st7121j0.hyp
 wget https://www.physionet.org/physiobank/database/sleep-edf/st7121j0.rec
 wget https://www.physionet.org/physiobank/database/sleep-edf/st7132j0.hyp
 wget https://www.physionet.org/physiobank/database/sleep-edf/st7132j0.rec
-wget
+
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7011J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7011JP-Hypnogram.edf
