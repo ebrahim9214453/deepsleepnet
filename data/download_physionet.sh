@@ -1,116 +1,278 @@
 wget https://physionet.org/pn4/sleep-edfx/ST7011J0-PSG.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7011J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7011JP-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7012J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7012JP-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7021J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7021JM-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7022J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7022J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7022JM-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7041J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7041J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7041JO-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7042J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7042JO-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7051J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7051JA-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7052J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7052J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7052JA-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7061J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7061J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7061JR-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7062J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7062JR-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7071J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7071J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7071JA-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7072J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7072JA-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7081J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7081JW-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7082J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7082J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7082JW-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7091J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7091JE-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7092J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7092J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7092JE-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7101J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7101J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7101JE-Hypnogram.edf
-
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7102J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7102JE-Hypnogram.edf
-
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7111J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7111JE-Hypnogram.edf
-
-
 wget https://physionet.org/pn4/sleep-edfx/ST7112J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7112J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7112JE-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7121J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7121J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7121JE-Hypnogram.edf
-
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7122J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7122JE-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7132J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7132J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7132JR-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7141J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7141J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7141JE-Hypnogram.edf
-
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7142J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7142JE-Hypnogram.edf
-
-
 wget https://physionet.org/pn4/sleep-edfx/ST7151J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7151J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7151JA-Hypnogram.edf
-
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7152J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7152JA-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7161J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7161JM-Hypnogram.edf
-
-
 wget https://physionet.org/pn4/sleep-edfx/ST7162J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7162J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7162JM-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7171J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7171J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7171JA-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7172J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7172JA-Hypnogram.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7181J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7181JR-Hypnogram.edf
-
 wget https://physionet.org/pn4/sleep-edfx/ST7182J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7182J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7182JR-Hypnogram.edf
-
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7191J0-PSG.edf
-wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7191JR-Hypnogram.edf
-
-
 wget https://physionet.org/pn4/sleep-edfx/ST7192J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7192J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7192JR-Hypnogram.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7201J0-PSG.edf
 wget https://physionet.org/pn4/sleep-edfx/ST7201J0-PSG.edf.hyp
 wget https://physionet.org/pn4/sleep-edfx/ST7201JO-Hypnogram.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7212J0-PSG.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7212J0-PSG.edf.hyp
+wget https://physionet.org/pn4/sleep-edfx/ST7212JJ-Hypnogram.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7221J0-PSG.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7221J0-PSG.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7221JA-Hypnogram.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7241J0-PSG.edf
+wget https://physionet.org/pn4/sleep-edfx/ST7241J0-PSG.edf.hyp
+wget https://physionet.org/pn4/sleep-edfx/ST7241JO-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4001E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4001E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4001EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4002E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4002E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4002EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4011E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4011E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4011EH-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4012E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4012E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4012EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4021E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4021E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4021EH-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4022E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4022E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4022EJ-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4031E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4031E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4031EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4032E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4032E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4032EP-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4041E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4041E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4041EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4042E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4042E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4042EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4051E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4051E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4051EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4052E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4052E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4052EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4061E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4061E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4061EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4062E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4062E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4062EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4071E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4071E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4071EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4072E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4072E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4072EH-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4081E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4081E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4081EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4082E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4082E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4082EP-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4091E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4091E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4091EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4092E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4092E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4092EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4101E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4101E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4101EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4102E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4102E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4102EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4111E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4111E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4111EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4112E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4112E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4112EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4121E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4121E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4121EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4122E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4122E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4122EV-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4131E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4131E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4131EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4141E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4141E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4141EU-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4142E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4142E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4142EU-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4151E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4151E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4151EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4152E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4152E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4152EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4161E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4161E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4161EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4162E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4162E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4162EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4171E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4171E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4171EU-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4172E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4172E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4172EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4181E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4181E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4181EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4182E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4182E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4182EC-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4191E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4191E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4191EP-Hypnogram.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4192E0-PSG.edf
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4192E0-PSG.edf.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edfx/sleep-cassette/SC4192EV-Hypnogram.edf
+
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4002e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4002e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4012e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4012e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4102e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4102e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4112e0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/sc4112e0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7022j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7022j0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7052j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7052j0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7121j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7121j0.rec
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7132j0.hyp
+wget https://www.physionet.org/physiobank/database/sleep-edf/st7132j0.rec
+
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7011J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7011JP-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7012J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7012JP-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7021J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7021JM-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7022J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7022JM-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7041J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7041JO-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7042J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7042JO-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7051J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7051JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7052J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7052JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7061J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7061JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7062J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7062JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7071J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7071JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7072J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7072JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7081J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7081JW-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7082J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7082JW-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7091J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7091JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7092J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7092JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7101J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7101JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7102J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7102JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7111J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7111JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7112J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7112JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7121J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7121JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7122J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7122JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7131J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7131JR-Hypnogram.edf
+
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7132J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7132JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7141J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7141JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7142J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7142JE-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7151J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7151JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7152J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7152JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7161J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7161JM-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7162J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7162JM-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7171J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7171JA-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7172J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7181J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7181JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7182J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7182JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7191J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7191JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7192J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7192JR-Hypnogram.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7201J0-PSG.edf
+wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7201JO-Hypnogram.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7202J0-PSG.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7202JO-Hypnogram.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7211J0-PSG.edf
@@ -119,20 +281,9 @@ wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7212
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7212JJ-Hypnogram.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7221J0-PSG.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7221JA-Hypnogram.edf
-
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7222J0-PSG.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7222JA-Hypnogram.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7241J0-PSG.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7241JO-Hypnogram.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7242J0-PSG.edf
 wget https://physionet.org/physiobank/database/sleep-edfx/sleep-telemetry/ST7242JO-Hypnogram.edf
-
-
-
-
-
-
-
-
-
-
